@@ -16,16 +16,16 @@ A comprehensive cybersecurity training platform built with React, Node.js, Expre
 ## Screenshots
 
 ### Landing Page
-![Landing Page](./backend/images/landing-page.png)
+![Landing Page](./images/landing-page.png)
 
 ### Dashboard
-![Dashboard](./backend/images/dashboard.png)
+![Dashboard](./images/dashboard.png)
 
 ### Password Checker
-![Password Checker](./backend/images/password-checker.png)
+![Password Checker](./images/password-checker.png)
 
 ### Admin Panel
-![Admin Panel](./backend/images/admin-panel.png)
+![Admin Panel](./images/admin-panel.png)
 
 ## Installation
 
